@@ -1,15 +1,15 @@
-$(document).ready(function() {
-  $(".owl-carousel").owlCarousel();
-});
+// $(document).ready(function() {
+//   $(".owl-carousel").owlCarousel();
+// });
 
-$('.owl-carousel').owlCarousel({
-  loop: true,
-  items: 1,
-  margin: 10,
-  autoplay: true,
-  autoplayTimeout: 2500,
-  autoplayHoverPause: true,
-})
+// $('.owl-carousel').owlCarousel({
+//   loop: true,
+//   items: 1,
+//   margin: 10,
+//   autoplay: true,
+//   autoplayTimeout: 2500,
+//   autoplayHoverPause: true,
+// })
 
 var dots = [
   1000,
