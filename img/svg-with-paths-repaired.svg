@@ -1,0 +1,72 @@
+<svg width="414" height="414" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <path opacity="0.4" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="m84.2,85c31.3,-31.5 74.7,-51 122.7,-51c95.5,0 173,77.5 173,173s-77.5,173 -173,173c-47.8,0 -91,-19.4 -122.3,-50.7" class="transrg" id="Transparent_Ring"/>
+  <path fill=" none" d="m84.2,85c31.3,-31.5 74.7,-51 122.7,-51c95.5,0 173,77.5 173,173s-77.5,173 -173,173c-47.8,0 -91,-19.4 -122.3,-50.7" stroke-dasharray="0,1000" class="transrgwht" id="Opaque_Ring"/>
+  <g class="dots-nav" id="Dots">
+   <g id="svg_1">
+    <path id="svg_2" fill=" rgb(0, 146, 255)" d="m206.8,29c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsst dotsfill"/>
+   </g>
+   <g id="svg_3">
+    <path id="svg_4" d="m206.8,29c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsstro"/>
+   </g>
+  </g>
+  <g class="dots-nav" id="Dots1">
+   <g id="svg_5">
+    <path id="svg_6" fill=" rgb(255, 255, 255)" d="m206.79999,29c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsst dotsfill1"/>
+   </g>
+   <g id="svg_7">
+    <path id="svg_8" opacity="0" d="m206.79999,29c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsstro1"/>
+   </g>
+  </g>
+  <g class="dots-nav" id="Dots3">
+   <g id="svg_13">
+    <path id="svg_14" fill=" rgb(255, 255, 255)" d="m85.32751,324.09227c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsst dotsfill3"/>
+   </g>
+   <g id="svg_15">
+    <path id="svg_16" opacity="0" d="m85.32751,324.09227c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsstro3"/>
+   </g>
+  </g>
+  <g class="dots-nav" id="Dots4">
+   <g id="svg_17">
+    <path id="svg_18" fill=" rgb(255, 255, 255)" d="m331.95348,84.82827c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsst dotsfill4"/>
+   </g>
+   <g id="svg_19">
+    <path id="svg_20" opacity="0" d="m331.95348,84.82827c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsstro4"/>
+   </g>
+  </g>
+  <g class="dots-nav" id="Dots5">
+   <g id="svg_21">
+    <path id="svg_22" fill=" rgb(255, 255, 255)" d="m210.48098,372.55855c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsst dotsfill5"/>
+   </g>
+   <g id="svg_23">
+    <path id="svg_24" opacity="0" d="m210.48098,372.55855c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsstro5"/>
+   </g>
+  </g>
+  <g class="dots-nav" id="Dots6">
+   <g id="svg_25">
+    <path id="svg_26" fill=" rgb(255, 255, 255)" d="m84.71401,77.4663c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsst dotsfill6"/>
+   </g>
+   <g id="svg_27">
+    <path id="svg_28" opacity="0" d="m84.71401,77.4663c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsstro6"/>
+   </g>
+  </g>
+  <g class="dots-nav" id="svg_33">
+   <g id="svg_30">
+    <path id="svg_29" fill=" rgb(255, 255, 255)" d="m339.92894,314.27632c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsst dotsfill2"/>
+   </g>
+   <g id="svg_32">
+    <path id="svg_31" opacity="0" d="m339.92894,314.27632c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsstro2"/>
+   </g>
+  </g>
+  <g class="dots-nav" id="svg_38">
+   <g id="svg_35">
+    <path id="svg_34" fill=" rgb(255, 255, 255)" d="m379.80628,189.73634c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsst dotsfill2"/>
+   </g>
+   <g id="svg_37">
+    <path id="svg_36" opacity="0" d="m379.80628,189.73634c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6s-2.7,-6 -6,-6zm0,-29" class="dotsstro2"/>
+   </g>
+  </g>
+ </g>
+</svg>
